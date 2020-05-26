@@ -1,0 +1,20 @@
+D:\Visual Studio 2013\Projects - Test\FANUC state test\FANUC state test\bin\Debug\FANUC state test.exe.config
+D:\Visual Studio 2013\Projects - Test\FANUC state test\FANUC state test\bin\Debug\FANUC state test.exe
+D:\Visual Studio 2013\Projects - Test\FANUC state test\FANUC state test\bin\Debug\FANUC state test.pdb
+D:\Visual Studio 2013\Projects - Test\FANUC state test\FANUC state test\obj\Debug\FANUC state test.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects - Test\FANUC state test\FANUC state test\obj\Debug\FANUC_state_test.Form1.resources
+D:\Visual Studio 2013\Projects - Test\FANUC state test\FANUC state test\obj\Debug\FANUC_state_test.Properties.Resources.resources
+D:\Visual Studio 2013\Projects - Test\FANUC state test\FANUC state test\obj\Debug\FANUC state test.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects - Test\FANUC state test\FANUC state test\obj\Debug\FANUC state test.exe
+D:\Visual Studio 2013\Projects - Test\FANUC state test\FANUC state test\obj\Debug\FANUC state test.pdb
+C:\Users\e10828\Desktop\FANUC state test\FANUC state test\bin\Debug\FANUC state test.exe.config
+C:\Users\e10828\Desktop\FANUC state test\FANUC state test\bin\Debug\FANUC state test.exe
+C:\Users\e10828\Desktop\FANUC state test\FANUC state test\bin\Debug\FANUC state test.pdb
+C:\Users\e10828\Desktop\FANUC state test\FANUC state test\obj\Debug\FANUC state test.csprojAssemblyReference.cache
+C:\Users\e10828\Desktop\FANUC state test\FANUC state test\obj\Debug\FANUC_state_test.Form1.resources
+C:\Users\e10828\Desktop\FANUC state test\FANUC state test\obj\Debug\FANUC_state_test.Properties.Resources.resources
+C:\Users\e10828\Desktop\FANUC state test\FANUC state test\obj\Debug\FANUC state test.csproj.GenerateResource.cache
+C:\Users\e10828\Desktop\FANUC state test\FANUC state test\obj\Debug\FANUC state test.csproj.CoreCompileInputs.cache
+C:\Users\e10828\Desktop\FANUC state test\FANUC state test\obj\Debug\FANUC state test.exe
+C:\Users\e10828\Desktop\FANUC state test\FANUC state test\obj\Debug\FANUC state test.pdb
+C:\Users\e10828\Desktop\FANUC state test\FANUC state test\obj\Debug\FANUC_state_test.Form2.resources
